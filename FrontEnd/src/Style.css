@@ -1,0 +1,197 @@
+
+
+.barra-navegacao{
+    background-color: white;
+    height: auto;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+
+}
+
+.barra-navegacao li{
+    color:white;
+    text-decoration: none;
+}
+
+.logo-barra{
+	width: 50%;
+	height: 100%;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	font-family: 'VT323', monospace;
+	font-weight: bold;
+	font-size: 22px;
+
+	
+
+}
+
+.logo-barra img{
+	width: 100%
+}
+
+.menu-barra{
+	width: 70%;
+	height: auto;
+
+}
+
+
+.rodape{
+	height: auto;
+	width: 100%;
+	background-color: black;
+	padding: 2% 0% 2% 0%;
+}
+
+
+.imagem-rodape{
+	display: flex;
+	justify-content: center;
+	width: 30%;
+	height: auto;
+	align-items: center;
+}
+
+.rodape{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: white;
+	font-family: 'VT323', monospace;
+	font-size: 35px;
+
+}
+
+
+.imagem-rodape{	display: flex;
+	justify-content: center;
+	align-items: center;}
+.imagem-rodape img{
+	width: 100%;
+
+}
+
+.barra-navegacao a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 20%;
+}
+.banner-principal{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 100%;
+	height: auto;
+}
+.banner-principal div{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 30%;
+	height: auto;
+	padding: 3% 0%;
+
+}
+
+img{
+	width: 100%;
+}
+
+.menu-cadastros{
+
+}
+
+
+.titulo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: black;
+	font-size: 35px;
+	margin: 3% 1%;
+	font-family: 'VT323', monospace;
+	font-weight: bold;
+}
+
+.menu-cadastros{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+
+	margin: 2% 0%;
+}
+
+.menu-cadastros li{
+	margin: 10% 0%;
+	text-decoration: none;
+	font-family: 'Roboto', monospace;
+	font-weight: 500;
+	font-size: 25px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.lista-links{
+ text-align: center;
+}
+
+
+.conteudo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: auto;
+
+	padding: 2% 0%;
+
+	flex-direction: column;
+}
+
+
+.formulario{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+form{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-direction: column;
+	font-family: 'Roboto', monospace;
+}
+
+.titulo-paginas{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'VT323', monospace;
+	padding: 2% 0%;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+input{
+	margin: 2% 0%;
+}
+
+label{
+	font-family: 'Roboto', monospace;
+}
+
+input{
+	font-family: 'Roboto', monospace;
+	
+}
